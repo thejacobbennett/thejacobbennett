@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thejacobbennett
+- 👀 I’m interested in working in BI or data analytics!
+- 🌱 I’m new to all of this but am currently learning SQL and R.
+- 📫 How to reach me: jacobmurphybennett@gmail.com
