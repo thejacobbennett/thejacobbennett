@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thejacobbennett
-- 👀 I’m interested in working in BI or data analytics!
-- 🌱 I’m new to all of this but am currently learning SQL and R.
-- 📫 How to reach me: jacobmurphybennett@gmail.com
+- 👀 Heavy Power BI user working in BI and data analytics!
+- 🌱 Always learning something new in SQL, DAX, M Query and R.
+- 📫 How to reach me: jacobmurphybennett@gmail.com // 251-510-1577
