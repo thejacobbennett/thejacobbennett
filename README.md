@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @thejacobbennett
-- 👀 Heavy Power BI user working in BI and data analytics!
-- 🌱 Always learning something new in SQL, DAX, M Query and R.
-- 📫 How to reach me: jacobmurphybennett@gmail.com // 251-510-1577
+- 👀 Heavy Fabric/Power BI user working in BI and data analytics!
+- 📫 How to reach me: jacobmurphybennett@gmail.com // 601-317-9115
